@@ -22,7 +22,7 @@
 
    Hi, my name is Elsa, I have a BS in economics and a master in International Business Management. I have been pasionated about tech projects since 10 years while working with different teams focused into business development for small businesses, my role inside those projects have been mostly about marketing and project management. I like to improve my careeer and develop more skills when possible. This summer 2024, I have already achived the level 2 Diploma course in Digital & IT skills from Just IT and currently I'm learning coding to create, develop or manage softwares and to be able to build new amazing projects and boost my career.
 
-     I'm interested in business development, AI tecnology, design and sustainability.
+     I'm interested in Computer Science, in particulary AI, I'm also into business development, design and sustainability.
 </section>
 
 
@@ -54,14 +54,11 @@
      <h2>Projects</h2>
      <ul>
 <li>https://github.com/Elsa-Ossa/CashMachine/blob/main/README.md</li>
-     <li><a href="https://oyrone.com/"target="_blank">Oyrone Business Development<a></a></li>
+<li><a href="https://oyrone.com/"target="_blank">Oyrone Business Development<a></a></li>
 <li><a href="https://hy2go.uk/"target="_blank">The Future Of Hydrogen </a></li>
 <li><a href="projects/week_1_html_multimedia_project.html" target="_blank">
             Week 1: HTML Multimedia Project</a>
-        <p></li>
-            
-
-    </ul>
+        <p></li></ul>
 
 </section>
 
@@ -69,19 +66,11 @@
 <section class="contact">
     <div id="contact"></div>
      <h2>Contact me</h2>
+"https://www.linkedin.com/in/elsa-ossa-165925120</a></h1>
 
-     <P> <a href="mailto: elsatrieste@gmail.com">Email me</a></P>
-     <a href="https://www.linkedin.com/in/elsa-ossa-165925120/" target="_blank">CLICK HERE TO KNOW MORE ABOUT ME</a> 
-
-   
-     
-</section>
-
-    </div>
+    
 
 
-   
-<footer>Copyright Elsa Ossa 2024</footer>
 
 
 </body>
