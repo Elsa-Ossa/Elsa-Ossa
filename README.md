@@ -53,12 +53,10 @@
     <div id="projects"></div>
      <h2>Projects</h2>
      <ul>
-
+<li>https://github.com/Elsa-Ossa/CashMachine/blob/main/README.md</li>
      <li><a href="https://oyrone.com/"target="_blank">Oyrone Business Development<a></a></li>
-
-     <li><a href="https://hy2go.uk/"target="_blank">The Future Of Hydrogen </a></li>
-
-     <li><a href="projects/week_1_html_multimedia_project.html" target="_blank">
+<li><a href="https://hy2go.uk/"target="_blank">The Future Of Hydrogen </a></li>
+<li><a href="projects/week_1_html_multimedia_project.html" target="_blank">
             Week 1: HTML Multimedia Project</a>
         <p></li>
             
