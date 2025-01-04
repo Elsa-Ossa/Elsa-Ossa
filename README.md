@@ -35,9 +35,10 @@
 <div class="flex-item"> IT Technical Support</div>
 <div class="flex-item"> Cyber</div>
 <div class="flex-item"> AI</div>
+<div class="flex-item"> UX Design</div>
 <div class="flex-item"> Software Presentation & Spreadsheets</div>
-<div class="flex-item"> Network</div>
 <div class="flex-item"> Programing</div>
+<div class="flex-item"> Network</div>
 <div class="flex-item"> Business Development</div>
 <div class="flex-item"> Project Management</div>
 <div class="flex-item"> Marketing</div>
@@ -55,6 +56,10 @@
          <li>https://github.com/Elsa-Ossa/Fruits-Array</li>
          <li>https://github.com/Elsa-Ossa/Calculator-on-Browser/blob/main/README.md</li>
          <li>https://app.netlify.com/sites/calculator-elsa/overview</li>
+         <li>https://piazzasmart.com/</li>
+         <li>https://oyroneladiesclub.com/</li>
+         <li>https://oyrone.com/</li>
+         
          
 <li><a href="https://oyrone.com/"target="_blank">Oyrone Business Development<a></a></li>
 <li><a href="https://hy2go.uk/"target="_blank">The Future Of Hydrogen </a></li>
