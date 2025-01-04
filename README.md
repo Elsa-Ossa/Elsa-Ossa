@@ -73,7 +73,8 @@
      <h2>Contact me</h2>
 "https://www.linkedin.com/in/elsa-ossa-165925120</a></h1>
 
- [![LinkedIn](https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo_2023.png)](https://www.linkedin.com/in/yourprofile)
+[![LinkedIn](https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo_2023.png)](https://www.linkedin.com/in/elsa-ossa-165925120)
+
    
 
 
