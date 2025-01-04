@@ -63,9 +63,7 @@
          
 <li><a href="https://oyrone.com/"target="_blank">Oyrone Business Development<a></a></li>
 <li><a href="https://hy2go.uk/"target="_blank">The Future Of Hydrogen </a></li>
-<li><a href="projects/week_1_html_multimedia_project.html" target="_blank">
-            Week 1: HTML Multimedia Project</a>
-        <p></li></ul>
+</ul>
 
 </section>
 
@@ -75,7 +73,8 @@
      <h2>Contact me</h2>
 "https://www.linkedin.com/in/elsa-ossa-165925120</a></h1>
 
-    
+ [![LinkedIn](https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo_2023.png)](https://www.linkedin.com/in/yourprofile)
+   
 
 
 
