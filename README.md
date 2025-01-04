@@ -55,7 +55,7 @@
 <li>https://github.com/Elsa-Ossa/CashMachine/blob/main/README.md</li>
          <li>https://github.com/Elsa-Ossa/Fruits-Array</li>
          <li>https://github.com/Elsa-Ossa/Calculator-on-Browser/blob/main/README.md</li>
-         <li>https://app.netlify.com/sites/calculator-elsa/overview</li>
+         <li>https://calculator-elsa.netlify.app/<li>
          <li>https://piazzasmart.com/</li>
          <li>https://oyroneladiesclub.com/</li>
          <li>https://oyrone.com/</li>
