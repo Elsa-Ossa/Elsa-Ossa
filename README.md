@@ -71,7 +71,7 @@
 <section class="contact">
     <div id="contact"></div>
      <h2>Contact me</h2>
-"https://www.linkedin.com/in/elsa-ossa-165925120</a></h1>
+
 
 [![LinkedIn](https://fontawesome.com/icons/linkedin?f=brands&s=solid)](https://www.linkedin.com/in/elsa-ossa-165925120)
 
