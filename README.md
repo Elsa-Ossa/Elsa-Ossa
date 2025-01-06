@@ -57,9 +57,8 @@ Hi, my name is Elsa. I have a BS in Economics and a Master's in International Bu
          <li>https://github.com/Elsa-Ossa/Calculator-on-Browser/blob/main/README.md</li>
          <li>https://github.com/Elsa-Ossa/Inventory_management.py</li>
          <li>https://calculator-elsa.netlify.app/<li>
-         <li>https://github.com/Elsa-Ossa/Adventure-game/blob/main/README.md</li>
-         
-         <li>https://piazzasmart.com/</li>
+        <li>https://github.com/Elsa-Ossa/Adventure-game/blob/main/README.md</li>
+        <li>https://piazzasmart.com/</li>
          <li>https://oyroneladiesclub.com/</li>
          <li>https://oyrone.com/</li>
          
