@@ -20,7 +20,7 @@
     <div id="about"></div>
      <h2>About me</h2>
 
-Hi, my name is Elsa. I have a BS in Economics and a Master's in International Business Management. I have been passionate about tech projects for 10 years, working with different teams focused on business development, design, and sustainability for small businesses. My role in these projects has primarily been in project management. I am eager to improve my career and develop new skills whenever possible. In the summer of 2024, I achieved the Level 2 Diploma in Digital & IT Skills from Just IT. Currently, I am learning coding and AI systems to boost my career and stay updated with technology.
+Hi, my name is Elsa. I have a BS in Economics and a Master's in International Business Management. I have been passionate about tech projects since 10 years, working with different teams focused on business development, design, and sustainability for small businesses. My role in these projects has primarily been in project management. I am eager to improve my career and develop new skills whenever possible. In the summer of 2024, I achieved the Level 2 Diploma in Digital & IT Skills from Just IT. Currently, I am learning coding and AI systems to boost my career and stay updated with technology.
 </section>
 
 
